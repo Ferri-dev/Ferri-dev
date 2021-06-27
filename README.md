@@ -9,15 +9,8 @@
 
 ### Un poco mas sobre mi...  
 
-```javascript
-const ferran = {
-  pronombres: "he" | "him",
-  codigo: [Javascript, Typescript, HTML, CSS, Python, Java],
-  tools: [React, Node, Jest],
-                      },
- challenge: "Llegar al 5 en matematicas"
-}
-```
+<img src="https://user-images.githubusercontent.com/85942417/123554654-472fcc80-d781-11eb-89af-da321a031930.png">
+
 
 <img src="https://media.giphy.com/media/CkDBCHguEGk0bONQVQ/giphy.gif" width="60"> <em><b>Me encanta ayudar a todo el mundo</b> <b>Así que no dudes en hablarme</b> :)</em>
 
