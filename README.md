@@ -15,6 +15,8 @@
 
 [![Instagram: ferri.js](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=HTML&logoColor=white&link=https://www.instagram.com/ferri.js/)](https://developer.mozilla.org/es/docs/Web/HTML)
 
+[![Instagram: ferri.js](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=CSS&logoColor=white&link=https://www.instagram.com/ferri.js/)](https://developer.mozilla.org/es/docs/Web/CSS)
+
 
 <img src="https://media.giphy.com/media/CkDBCHguEGk0bONQVQ/giphy.gif" width="60"> <em><b>Me encanta ayudar a todo el mundo</b> <b>Así que no dudes en hablarme</b> :)</em>
 
