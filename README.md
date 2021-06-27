@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/CkDBCHguEGk0bONQVQ/giphy.gif" width="230">
 
 
-[![Twitter: Ferran Brancal](https://img.shields.io/twitter/follow/Not_Ferri?style=social)](https://twitter.com/Not_Ferri)
+[![Twitter: Ferran Brancal](https://img.shields.io/twitter/sigueme/Not_Ferri?style=social)](https://twitter.com/Not_Ferri)
 [![Instagram: ferri.js](https://img.shields.io/badge/-ferri.js-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ferri.js/)](https://www.instagram.com/ferri.js)
 [![GitHub Ferran Brancal](https://img.shields.io/github/followers/Ferri-dev?label=follow&style=social)](https://github.com/Ferri-dev)
 
