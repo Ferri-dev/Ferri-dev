@@ -1,5 +1,5 @@
 <h2> Hola, Soy Ferran! </h2>
-![me](https://user-images.githubusercontent.com/85942417/123554218-4302af80-d77f-11eb-8e62-6e8a42907def.png)
+<img src="https://user-images.githubusercontent.com/85942417/123554218-4302af80-d77f-11eb-8e62-6e8a42907def.png">
 
 
 [![Twitter: Ferran Brancal](https://img.shields.io/twitter/follow/Not_Ferri?style=social)](https://twitter.com/Not_Ferri)
