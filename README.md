@@ -10,8 +10,10 @@
 ### Un poco mas sobre mi...  
 
 <img src="https://user-images.githubusercontent.com/85942417/123554654-472fcc80-d781-11eb-89af-da321a031930.png">
-<br>
+
+## Mis lenguajes
 <img scr="https://user-images.githubusercontent.com/85942417/123554956-fc16b900-d782-11eb-84c8-2f83e413c87f.png">
+
 
 <img src="https://media.giphy.com/media/CkDBCHguEGk0bONQVQ/giphy.gif" width="60"> <em><b>Me encanta ayudar a todo el mundo</b> <b>Así que no dudes en hablarme</b> :)</em>
 
