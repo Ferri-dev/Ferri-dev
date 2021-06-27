@@ -3,29 +3,24 @@
 
 
 [![Twitter: Ferran Brancal](https://img.shields.io/twitter/follow/Not_Ferri?style=social)](https://twitter.com/Not_Ferri)
-[![Instagram: ferri.js](https://img.shields.io/badge/-ferri.js-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ferri.js/)](https://www.instagram.com/ferri.js)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Instagram: ferri.js](https://img.shields.io/badge/-ferri.js-white?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ferri.js/)](https://www.instagram.com/ferri.js)
+[![GitHub Ferran Brancal](https://img.shields.io/github/followers/Ferri-dev?label=follow&style=social)](https://github.com/Ferri-dev)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### Un poco mas sobre mi...  
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
+const ferran = {
+  pronombres: "he" | "him",
+  codigo: [Javascript, Typescript, HTML, CSS, Python, Java],
+  tools: [React, Node, Jest],
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "Llegar al 5 en matematicas"
 }
 ```
 
-<img src="" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/CkDBCHguEGk0bONQVQ/giphy.gif" width="60"> <em><b>Me encanta ayudar a todo el mundo</b> <b>Así que no dudes en hablarme</b> :)</em>
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
+⭐️ DE [@Ferri-dev](https://github.com/Ferri-dev)
